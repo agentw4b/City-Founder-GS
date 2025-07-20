@@ -1,0 +1,2 @@
+STR_WELCOME    :Hello {COMPANY}!{}{}You are playing a game with City Founder GS.
+STR_CITY    : ( is city) 

@@ -1,0 +1,12 @@
+Version 3
+- Feature: Extracting existing cities to the script log is also performed when the game is loaded. Previously, this was only done at the start of the game.
+- Fixed bug: If the list of city names does not offer next city name, script is now finished.
+
+Version 2
+- Fixed bug: Blocked "Log" feature from Superlib library, occurring when saving game.
+- Fixed info in Readme.txt
+- Added URL in info.nut
+
+Version 1:
+- Initial release
+
