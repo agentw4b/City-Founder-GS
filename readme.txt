@@ -1,8 +1,8 @@
 City Founder GS
 ----------------------------------------------------------------
 
-City Founder GS author: Agentw4b from Czech Republic 
-About author: Owner and admin of servers Experimental games 01 (92.63.57.152:3979) and Experimental games 02 (92.63.57.152:3879)
+City Founder GS author: Lubomir Klubus from Czech Republic 
+
  
 Forum thread: https://www.tt-forums.net/viewtopic.php?f=65&t=82795
 
